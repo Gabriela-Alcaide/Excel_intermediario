@@ -1,2 +1,2 @@
-# Excel_macros_filtros
+# Excel_intermediario
 Alguns projetos prático da formação "Excel", pela Alura.
